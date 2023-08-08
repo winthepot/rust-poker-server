@@ -6,17 +6,12 @@ Welcome to **RustPokerServer** - your ultimate open-source solution for creating
 
 ## Key features of the **RustPokerServer**
 
-**Performance**: Utilizes the high-performance nature of Rust to provide a smooth, responsive gaming experience.
-
-**Safety**: Takes full advantage of Rust's memory safety guarantees without garbage collection.
-
-**Concurrency**: Efficiently handles multiple games at the same time, thanks to Rust's excellent concurrency capabilities.
-
-**Modular Design**: With a clean, modular design, extending the server with additional features or games is easy and straightforward.
-
-**Cross-platform**: Written in pure Rust, it is easily deployable across a wide range of platforms.
-
-**Detailed Documentation**: Every function, method, and module is thoroughly documented to help developers understand the codebase quickly.
+- **Performance**: Utilizes the high-performance nature of Rust to provide a smooth, responsive gaming experience.
+- **Safety**: Takes full advantage of Rust's memory safety guarantees without garbage collection.
+- **Concurrency**: Efficiently handles multiple games at the same time, thanks to Rust's excellent concurrency capabilities.
+- **Modular Design**: With a clean, modular design, extending the server with additional features or games is easy and straightforward.
+- **Cross-platform**: Written in pure Rust, it is easily deployable across a wide range of platforms.
+- **Detailed Documentation**: Every function, method, and module is thoroughly documented to help developers understand the codebase quickly.
 
 
 ### Why have this server ?
